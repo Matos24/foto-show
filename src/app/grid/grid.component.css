@@ -1,6 +1,6 @@
 .gridContainer{
   display: flex;
-  justify-content: space-around;
+  justify-content: space-between;
   flex-direction: row;
   max-width: 1300px;
   background-color: red;
