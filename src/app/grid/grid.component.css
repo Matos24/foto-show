@@ -1,0 +1,14 @@
+.gridContainer{
+  display: flex;
+  justify-content: space-around;
+  flex-direction: row;
+  max-width: 1300px;
+  background-color: red;
+  margin-top: 25px;
+  padding: 10px;
+  flex-wrap: nowrap;
+}
+.gridColum{
+  width: 32%;
+  background-color: black;
+}
