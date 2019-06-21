@@ -1,3 +1,3 @@
 # foto-show
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/foto-show)
+Criado como um teste, para ser um expositor de fotografias!
