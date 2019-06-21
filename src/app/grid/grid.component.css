@@ -6,9 +6,10 @@
   background-color: red;
   margin-top: 25px;
   padding: 10px;
-  flex-wrap: nowrap;
+  flex-wrap: wrap;
 }
-.gridColum{
+.gridBlock{
   width: 32%;
+  margin-top: 10px;
   background-color: black;
 }
