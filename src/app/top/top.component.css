@@ -1,0 +1,15 @@
+.top{
+  background-color: blue;
+  max-width: 1300px;
+  padding: 15px;
+  display: flex;
+  justify-content: space-between;
+  flex-direction: row;
+}
+.top-logo{
+  background-color: red;
+}
+.top-menu{
+  background-color: red;
+  padding: 20px;
+}
