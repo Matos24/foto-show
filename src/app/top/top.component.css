@@ -7,9 +7,14 @@
   flex-direction: row;
 }
 .top-logo{
-  background-color: red;
+  /* background-image: url("../img/logo.png");
+  background-size: cover; */
+  width: 50px;
 }
 .top-menu{
   background-color: red;
   padding: 20px;
+}
+.logo{
+  width: 100px;
 }
