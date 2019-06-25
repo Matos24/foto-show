@@ -6,7 +6,7 @@
   align-content: center;
   height: 300px;
   /* background-color: rgba(89, 89, 89, 0.3); */
-  background-color: url('');
+  background-image: url('img/logo.png');
   margin-top: 25px;
   max-width: 1300px;
 }
